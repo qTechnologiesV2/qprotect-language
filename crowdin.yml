@@ -1,1 +1,3 @@
-files: []
+files:
+  - source: '*.properties'
+    translation: locale_%locale_with_underscore%.properties
